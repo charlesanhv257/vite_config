@@ -133,5 +133,5 @@ MIT License – Tự do sử dụng, tùy chỉnh và chia sẻ.
 ## ✨ Tác giả
 
 **Vũ Tuấn Anh (CharlesAnhV)**  
-🔗 [linkedin.com/in/charlesanhv](https://linkedin.com/in/charlesanhv](https://www.linkedin.com/in/perserver-anh-245649196/)  
+🔗 [linkedin.com/in/charlesanhv](https://www.linkedin.com/in/perserver-anh-245649196/)
 📁 [github.com/charlesanhv257](https://github.com/charlesanhv257)
